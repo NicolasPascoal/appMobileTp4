@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minhas Tarefas</string>
+    <string name="hint_name">Nome da tarefa</string>
+    <string name="hint_description">Descrição</string>
+    <string name="button_add">Adicionar</string>
+    <string name="button_complete">Concluir</string>
+    <string name="button_completed">Concluída</string>
+    <string name="empty_list">Nenhuma tarefa cadastrada</string>
+    <string name="error_empty_fields">Preencha o nome e a descrição</string>
+</resources>

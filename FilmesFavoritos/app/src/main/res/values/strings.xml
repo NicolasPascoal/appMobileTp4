@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Filmes Favoritos</string>
+    <string name="hint_title">Título do filme</string>
+    <string name="hint_director">Diretor</string>
+    <string name="button_add">Adicionar</string>
+    <string name="empty_list">Nenhum filme adicionado ainda</string>
+    <string name="error_empty_fields">Preencha o título e o diretor</string>
+</resources>
